@@ -111,7 +111,7 @@
     <profile>
       <id>grid</id>
       <properties>
-        <grid.url>http://192.168.56.1:4444/wd/hub/</grid.url>
+        <grid.url>http://localhost:4444/wd/hub/</grid.url>
       </properties>
       <activation>
         <activeByDefault>true</activeByDefault>
